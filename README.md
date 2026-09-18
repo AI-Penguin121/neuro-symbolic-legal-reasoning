@@ -1,6 +1,6 @@
 # Neuro-Symbolic Approaches for Legal Reasoning
 
-This repository contains my seminar paper on **neuro-symbolic approaches to legal reasoning**, written as part of the *Legal AI* seminar at the Technical University of Munich (TUM).
+This repository contains my seminar paper on **neuro-symbolic approaches to legal reasoning**, written as part of the *Topics in Natural Language Processing of Legal Text* advanced seminar at the Technical University of Munich (TUM).
 
 The paper investigates how neural and symbolic methods can be combined to address some of the limitations of purely neural approaches to legal reasoning.
 
@@ -8,9 +8,9 @@ The paper investigates how neural and symbolic methods can be combined to addres
 
 The paper first establishes a set of requirements for reliable AI-based legal reasoning, including aspects such as:
 
-- logical consistency
-- repeatability
-- transparency and traceability of reasoning
+- consistency analysis and outcome
+- methodical correctness
+- transparency of reasoning process
 - understanding of natural-language legal texts
 - handling of legal interpretation and non-determinism
 - extraction and representation of legally relevant information
@@ -24,7 +24,6 @@ The reviewed methods are organized according to their underlying technical appro
 - ontologies
 - SMT-based reasoning
 - knowledge graphs and graph-based reasoning
-- multi-agent and structured reasoning approaches
 
 The different approaches are discussed with respect to their ability to support reliable and verifiable legal reasoning.
 
@@ -34,6 +33,6 @@ The different approaches are discussed with respect to their ability to support 
 
 ## Context
 
-- **Course:** Legal AI Seminar
+- **Course:** Advanced Seminar: Topics in Natural Language Processing of Legal Text
 - **Institution:** Technical University of Munich (TUM)
 - **Topic:** Neuro-Symbolic AI · Legal Reasoning · Legal AI
